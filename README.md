@@ -34,7 +34,7 @@
     php artisan migrate
     ```
 
-5. **Add keys for github and google in env file**:
+5. **Generate data into database**:
 
     ```bash
     php artisan db:seed
